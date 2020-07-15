@@ -1,5 +1,5 @@
-# Coding_learning
-My first repository for C++ and Python language learning.
+# Code_learning
+My first repository for C++ and Python language learning and also some computer coding program using information.
 ## Introducation
 Using book:
 1. <Starting out with C++ from control structures through Objects> sixth edition. Tony Gaddis.
