@@ -1,5 +1,5 @@
 ## Intruduction
-My first repository for C++ and Python language learning and also some computer coding program using information.
+My first repository for C++ and Python language learning and also some computer coding program useful information.
 
 ## Reference:
 1. <Starting out with C++ from control structures through Objects> sixth edition. Tony Gaddis.
