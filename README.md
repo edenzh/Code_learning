@@ -1,10 +1,14 @@
-# Code_learning
+## Intruduction
 My first repository for C++ and Python language learning and also some computer coding program using information.
-## Introducation
-Using book:
+
+## Reference:
 1. <Starting out with C++ from control structures through Objects> sixth edition. Tony Gaddis.
 2. <Introduction to programming with C++> Y.Daniel Liang
 3. <Starting out with Python> second edition, Tony Gaddis
+
+## Enter to C++
+
+## Enter to Python
 
 ## some useful information
 ### 1. vi command 
